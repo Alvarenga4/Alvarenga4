@@ -9,9 +9,7 @@ I'm work in this area about 3 years and a i love it. The principal languages wit
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 
-## My social midias
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=Alvarenga4&show_icons=true)
+## My social midias 
 
 <a target="_blank" href="https://www.linkedin.com/in/francisco-carlos-de-alvarenga-0404/">
   <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
