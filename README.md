@@ -14,11 +14,11 @@
 </a>
 <a target="_blank" href="https://fb.com/francisco.carlos.39/">
   <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
+</a> <br />
 
 <hr />
 
-Hello erevryone. I'm Francisco Alvarenga and i'm 21 years old. I'm FullStack developer about 3 years and i love it. Currently, i living at São José dos Campos, SP - Brazil. I love play 🎸 and watch some movies and tv shows.
+Hello erevryone. I'm Francisco Alvarenga and i'm 21 years old. I'm FullStack developer about 3 years and i love it. Currently, i living at São José dos Campos, SP - Brazil. I love play 🎸 and watch some movies and tv shows. <br />
 
 <hr />
 
